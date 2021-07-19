@@ -1,0 +1,4 @@
+Void main {
+
+printf ("This is priint statment")
+}
